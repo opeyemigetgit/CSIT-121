@@ -1,0 +1,38 @@
+body
+ {
+        background-color: orange;
+        font-family: verdana, helvetica, sans-serif;
+        text-align:center;
+}
+
+
+P
+       {
+       line-height: 25px;
+       font-style: italic;
+       text-indent:100px;
+}
+
+h1 
+
+       color:green;
+       text-decoration:underline;
+       margin:25px;
+       font-size:150%;
+
+}
+
+h2 {
+       color:purple;
+       font-style:italic;
+       background-color: purple ;
+}
+li
+{ 
+       color: brown
+
+}
+h3 {
+       background-color: yellow;
+}
+
