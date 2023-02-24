@@ -1,0 +1,34 @@
+body
+ {
+        background-color: grey;
+        background-image: url("mydroneshot.jpg");
+        font-family: verdana, helvetica, sans-serif;
+        text-align:center;
+}
+
+
+P
+       {
+       line-height: 25px;
+       font-style: italic;
+       text-indent:100px;
+}
+h1 
+
+{
+       color:white;
+       text-decoration:underline;
+       margin:25px;
+       font-size:150%;
+
+}
+
+h2 {
+       color:pink;
+       font-style:italic;
+       background-color: purple ;
+}
+
+h3 {
+       background-color: yellow;
+}
