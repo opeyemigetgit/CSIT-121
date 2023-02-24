@@ -1,0 +1,38 @@
+body
+ {
+        background-color: grey;
+        font-family: verdana, helvetica, sans-serif;
+        text-align:center;
+}
+
+
+P
+       {
+       line-height: 25px;
+       font-style: italic;
+       text-indent:100px;
+}
+ 
+ p 
+ {
+       <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APOUNDED_YAM_%2526_VEGETABLE_SOUP._A_native_delicacy_of_the_Yoruba_tribe_in_Nigeria%2C_West_Africa..jpg&psig=AOvVaw3dd3-MeswPPz7f0Plv7j4V&ust=1677289116950000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDlzoODrf0CFQAAAAAdAAAAABAE" 
+}
+h1 
+
+{
+       color:white;
+       text-decoration:underline;
+       margin:25px;
+       font-size:150%;
+
+}
+
+h2 {
+       color:pink;
+       font-style:italic;
+       background-color: purple ;
+}
+
+h3 {
+       background-color: yellow;
+}
