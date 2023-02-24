@@ -4,18 +4,24 @@ body
         font-family: verdana, helvetica, sans-serif;
         text-align:center;
 }
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
+img {width: 100%}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
 
 P
        {
        line-height: 25px;
        font-style: italic;
        text-indent:100px;
-}
- 
- p 
-{
-       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Mixed_vegetable_soup_the_Nigerian_way.jpg" width="500" height="600">
 }
 
 h1 
