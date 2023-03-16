@@ -1,0 +1,48 @@
+body
+ {
+       
+        font-family: verdana, helvetica, sans-serif;
+        text-align:  center;
+        background-color: purple;
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Fairytale_Yellow_Purple_Lens_Flare_Abstract_Magical_Fabric_Colorful_Background_05.jpg);
+}
+#wrapper { 
+       background-color: Grey;
+       margin: auto;
+       width: 80%;
+       min-width: 700px;
+       max-width: 102px;
+
+}
+P
+       {
+       line-height: 25px;
+       font-style: bold;
+       text-indent:100x;
+}
+
+h1 
+
+{
+       color:black;
+       text-align: center;
+       text-decoration:underline;
+       margin:25px;
+       font-size:150%;
+}
+nav 
+{
+      font-weight: bold; 
+       text-align: center;
+       font-size: 1.5em;
+       padding-top: 5px;
+       padding-bottom: 5px;
+       background-color: white;
+       border-bottom: 4px solid 
+}
+
+h2 {
+       color:blue;
+       font-style:italic;
+
+}
