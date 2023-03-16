@@ -6,7 +6,7 @@ body
         background-color: purple;
         background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Fairytale_Yellow_Purple_Lens_Flare_Abstract_Magical_Fabric_Colorful_Background_05.jpg);
 }
-#wrapper { 
+.wrapper { 
        background-color: Grey;
        margin: auto;
        width: 80%;
