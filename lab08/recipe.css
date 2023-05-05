@@ -115,7 +115,15 @@ footer{
        background: gold;
 
 }
-
+label {
+  background-color: yellow;
+   border: 3px solid black;
+  
+}
+br{
+       background-color: purple;
+}
+  
 
 table {
   width: 50%;
@@ -136,4 +144,9 @@ td {
 
 tr: {
   background-color: blue;
+}
+audio {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
 }

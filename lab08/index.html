@@ -53,14 +53,15 @@
 				</ul>
 			</div>
 
+			
 
-		<table>
-  				<thead>
+			<table>
+  					<thead>
    					 	<tr>
       						<th>Nutrient</th> 
       					</tr>
- 				 </thead>
-  			<tbody>
+ 					 </thead>
+  				<tbody>
   					<tr>  
   						<td> Servimg per recipe: 9</td>
   					</tr>
@@ -71,39 +72,51 @@
 
    						<tr>
 							<td> Amount per Serving</td>
-      						<td>184</td>
   						</tr>
 
    						<tr>
 							<td>Calories</td>
-      						<td>184</td>
+      					
   						</tr>
     				<tr>
    					   <td>Protein</td>
-    					  <td> 150 </td>
+    					  
    					</tr>
    					 	<tr>
      						 <td>Fat</td>
-      						<td>10.3 g</td>
+      						
     					</tr>
   					  	<tr>
       						<td>Carbohydrates</td>
-   				  			 <td> 7.5 g </td>
+   				  			 
    					 	</tr>
    					 	<tr>
-   				  			 <td>Fiber</td>
-   				 			 <td>4 g</td>
+   				  			 <td>Fiber </td>
+   				 			 
    						 </tr>
    					 	<tr>
    				  			 <td>Sugar</td>
-   							 <td>10 g</td>
+   							 
   			 		 	</tr>
   					  	<tr>
     				  		<td>Sodium</td>
-    				  		<td> 777.8 mg </td>
-   					 </tr>
-  			</tbody>
-  		</table>
+    			
+   						 </tr>
+  					</tbody>
+
+				
+
+  			</table>
+
+  			<audio controls>
+  				<source src="audio/eforiroaudio.m4a" type="audio/mpeg">
+  				<source src="audio/eforiroaudio.m4a" type="audio/m4a">
+  				
+  			</audio>
+
+
+
+
 
 			<div class="side"> <h4>Steps needed to prepare</h4>
 
@@ -126,7 +139,42 @@
 				
 
 				<p> Vegetale soup is a native soup in Nigeria, in my tribe(yoruba) we call it efo riro. I love the soup because it literally goes with anything for example: pounded yam, semo, fufuf, boilled white rice and eba(cassava). i have recomend it for lot of my America friends that have not tried it and they gave me a wonderful review on it.<a href="https://www.allnigerianrecipes.com/"> One of the best place to learn how to make any Nigeria dishes</a> </p>
-		
+
+
+					<form action="/submit-form" method="POST">
+  <label for="first-name">First Name:</label>
+  <input type="text" id="first-name" name="first-name" required>
+  <br>
+  <label for="last-name">Last Name:</label>
+  <input type="text" id="last-name" name="last-name" required>
+  <br>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <br>
+  <label for="cuisine">Favorite Cuisine:</label>
+  <select id="cuisine" name="cuisine" required>
+    <option value="">please choose an option"> </option>
+    <option value="	Nigerian">Nigerian</option>
+    <option value="Mexican">Mexican</option>
+    <option value="German">German</option>
+    <option value="Chinese">Chinese</option>
+    <option value="Indian">Indian</option>
+    <option value="Italian">Italian</option>
+    <option value="Thai">Thai</option>
+  </select>
+  <br>
+  <label for="subscribe">Subscribe to Mailing List:</label>
+  <input type="radio" id="yes" name="subscribe" value="yes" required>
+  <label for="yes">Yes</label>
+  <input type="radio" id="no" name="subscribe" value="no">
+  <label for="no">No</label>
+  <br>
+  <input type="submit" value="Submit">
+  <input type="reset" value="Reset">
+</form>
+
+
+						
 	 </body>
 	 			
 </html>
